@@ -2,6 +2,7 @@
 
 ## Welcome to my application project for the Data Analyst position at Nashville SC!
 ### Save for the data sources, which are in the main repository, the reports and code for both exercises are in their own individual folders, `Exercise_1/` and `Exercise_2/`.
+#### The reports for each exercise are in the PDF files in both folders.
 #### For exercise 1, the code for the Orlando Cty @ Nashville SC (11/23/21) post-match report is in it's own Jupyter notebook: `NSH_ORL_Report.ipynb`
 #### The code for both the opposition report and set-piece report are together in their own Jupyter notebook: `PHI_NSH_20211128_PreMatch_Report.ipynb`
 
